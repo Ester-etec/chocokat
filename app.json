@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "chocokat",
+    "slug": "chocokat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/log.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/log.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffbde8"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/log.png",
+        "backgroundColor": "#ffbde8"
+      }
+    },
+    "web": {
+      "favicon": "./assets/log.png"
+    }
+  }
+}
